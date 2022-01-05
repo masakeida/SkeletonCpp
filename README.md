@@ -1,0 +1,2 @@
+# SkeletonCpp
+C++ Skeleton
