@@ -8,7 +8,8 @@ Author::Author()
 	this->name = "Masayuki Keida";
 }
 
-void Author::aboutThisPrograms()
+void
+Author::aboutThisPrograms()
 {
 	std::cout << this->description << this->name << std::endl;
 }

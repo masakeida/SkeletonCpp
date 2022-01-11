@@ -7,7 +7,8 @@ HelloWorld::HelloWorld()
 	this->hello = "Hello World!";
 }
 
-void HelloWorld::sayHello()
+void
+HelloWorld::sayHello()
 {
 	std::cout << this->hello << std::endl;
 }
