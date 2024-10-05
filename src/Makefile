@@ -1,5 +1,5 @@
 CC	= c++
-CFLAGS	=
+CFLAGS	= -Wall -Wextra -pedantic -std=c++11
 TARGET	= HelloWorld
 SRCS	= main.cpp hello_world.cpp author.cpp
 OBJS	= $(SRCS:.cpp=.o)

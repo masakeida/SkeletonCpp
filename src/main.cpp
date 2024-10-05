@@ -2,7 +2,7 @@
 #include "author.hpp"
 
 int
-main(int argc, char *argv[])
+main(void)
 {
 	HelloWorld helloWorld;
 	helloWorld.sayHello();
